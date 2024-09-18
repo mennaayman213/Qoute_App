@@ -1,0 +1,15 @@
+.parent{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../Photo/pexels-suissounet-2101187.jpg);
+    background-size: cover;
+    background-position:center;
+}
+.child{
+    padding: 25px;
+    border: 1px solid #94c7c0;
+    border-radius: ;
+    background-color: #94c7c0;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
